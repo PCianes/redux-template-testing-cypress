@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App> title with white color 1`] = `
+<h1
+  class="sc-bczRLJ bixcBr"
+>
+  Redux template: Jest & Cypress
+</h1>
+`;
